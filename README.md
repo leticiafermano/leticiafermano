@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Letícia Alves Fermano
 
-🎓 I'm an undergraduate student in Civil Engineering and System Analyst
+🎓 I'm a graduate in Civil Engineering and System Analyst
 
 <div>
   <a href="https://github.com/leticiafermano">
