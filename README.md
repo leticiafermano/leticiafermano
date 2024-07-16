@@ -1,6 +1,6 @@
 ## Letícia Santos Alves Fermano
 
-👋 Hi, I'm Letícia Alves Fermano
+👋 Hi, I'm Letícia Alves Fermano <br>
 🎓 I have a degree in civil engineering and systems analysis
 
 <div>
