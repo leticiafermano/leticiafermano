@@ -1,8 +1,7 @@
 ## Letícia Santos Alves Fermano
 
 👋 Hi, I'm Letícia Alves Fermano
-
-🎓 I'm a graduate in Civil Engineering and System Analyst
+🎓 I have a degree in civil engineering and systems analysis
 
 <div>
   <a href="https://github.com/leticiafermano">
