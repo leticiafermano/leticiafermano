@@ -1,5 +1,8 @@
 ## Letícia Santos Alves Fermano
 
+👋 Hi, I'm Letícia Alves Fermano
+🎓 I'm an undergraduate student in Civil Engineering and System Analyst
+
 <div>
   <a href="https://github.com/leticiafermano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiafermano&&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
