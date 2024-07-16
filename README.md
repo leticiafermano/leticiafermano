@@ -1,6 +1,7 @@
 ## Letícia Santos Alves Fermano
 
 👋 Hi, I'm Letícia Alves Fermano
+
 🎓 I'm an undergraduate student in Civil Engineering and System Analyst
 
 <div>
